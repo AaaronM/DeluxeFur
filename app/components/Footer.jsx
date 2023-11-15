@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <div id="footer " className="overflow-hidden">
       <div className=" h-[600px] relative flex justify-center items-center">
-        <div className=" font-thin  ">
+        <div className=" font-thin opacity-100  ">
           <h3 className=" mr-[80px] ">747-332-7075</h3>
           <p className="mr-[80px]">Karen.h@deluxefurniture.company</p>
 
