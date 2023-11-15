@@ -13,7 +13,7 @@ export default function Navbar() {
   }
 
   return (
-    <div className=" ">
+    <div className=" overflow-hidden ">
       <div className=" flex justify-between  items-center mx-5  ">
         <Image src={Logo} alt="Logo" className=" w-[150px] "></Image>
         <div>

@@ -8,10 +8,10 @@ import Chair2 from "../IMG/chair2.png";
 
 export default function Info() {
   return (
-    <div className="  h-screen flex flex-col  justify-center items-center text-center  relative  ">
+    <div className="  h-screen flex flex-col  justify-center items-center text-center  relative overflow-hidden  ">
       <Image
         src={Chair2}
-        className=" absolute top-[-100px] right-0 opacity-20   "
+        className=" absolute top-[100px] right-0 opacity-20   "
       />
       <h2 className=" text-[50px] mb-20 opacity-30">CORE IDEALS</h2>
       <div className=" flex flex-col lg:flex-row justify-center items-center font-thin  z-10">
