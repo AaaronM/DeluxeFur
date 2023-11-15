@@ -53,7 +53,7 @@ export default function Carousel() {
   };
 
   return (
-    <div className="flex flex-col items-center w-[100%] h-[600px] bg-gray relative  pt-20 overflow-hidden ">
+    <div className="flex flex-col items-center w-[100%] h-[600px] bg-gray relative  pt-20 overflow-hidden">
       {/* <div>
         <Image
           src={flowers}
